@@ -58,10 +58,12 @@ func main() {
 	fmt.Println(nums)
 	fmt.Println(len(nums))
 
-	var num = []int{7,8,9,4,2,5,8,9,3,2}
+	var num = []int{7, 8, 9, 4, 2, 5, 8, 9, 3, 2}
 	fmt.Println(num)
 
 	sort.Ints(num)
 	fmt.Println(num)
-	
+
+	fmt.Printf("adding %v and %v gives %v\n", 20, 30, 50)
+
 }
