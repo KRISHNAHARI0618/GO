@@ -11,6 +11,16 @@
 ### Use Cases:
 - Go Is Statically Typed Language
 
+## Types:
+- Case Sensitive
+- Variable should be known in advance
+- Everything is Type here
+- String,Bool,Integer,Floating,Complex,
+- uint8,uint64
+
+## Comma and ok
+- User inputs using scanf
+- 
 ## Some areas I think I should focus on:
 
 - Concurrency and Goroutines
@@ -70,9 +80,49 @@
 
 ### Functions in Go 
 - Basic Functions
-- Veriadic Functions
+- Veriadic Functions Funcname(nums ...int) --> anynumers you can give
 - Closures -> take varibale from outer / another function
 - Function as input
 - Methods: When a function is assigned to a Type it is called method 
 - Anonymous Functions: 
 - Function as a Argument.
+
+### Defer Statements:
+- Will make the compiler to run at the end of the function
+
+### Handling The web request
+- 
+### Interfaces --> Like a Contracts 
+- It can implement the methods whihc i having over riden values
+
+IBM Job Opening:
+
+🚀 We’re Hiring: Full Stack Developer (Golang/Python & Terraform) – Kochi 🌍
+Are you a passionate Full Stack Developer looking for an exciting opportunity in Kochi? Do you thrive in building scalable applications and working with cutting-edge technologies like Golang, Python, and Terraform (IaC)? If yes, we want to hear from you!
+
+🔹 What You’ll Do:
+✔️ Develop and maintain robust backend services using Golang/Python
+ ✔️ Design and implement scalable Infrastructure as Code (IaC) with Terraform
+ ✔️ Collaborate with cross-functional teams to create seamless applications
+ ✔️ Optimize performance and ensure best coding practices
+
+🔹 What We’re Looking For:
+🔹 2+ years of experience in Golang or Python development
+ 🔹 Hands-on experience with Terraform for cloud infrastructure management
+ 🔹 Strong knowledge of microservices architecture, APIs, and cloud platforms (AWS/GCP/Azure)
+ 🔹 Passion for clean, efficient, and scalable code
+
+
+ ### Building The api:
+ - API Building 
+ - JWT Token
+ - Event Booking API
+ - Get List Update Post Put Fetch
+
+### Packages
+- Http Packages: Handled Http requests
+- Gin Library `Developed BY Go Community`
+- go get -u github.com/gin-gonic/gin
+
+### Master Go Using Concurrency Patterns
+- 
