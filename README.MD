@@ -20,7 +20,8 @@
 
 ## Comma and ok
 - User inputs using scanf
-- 
+- Using Bufio.io & Bufio.io standard
+
 ## Some areas I think I should focus on:
 
 - Concurrency and Goroutines
