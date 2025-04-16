@@ -127,3 +127,8 @@ Are you a passionate Full Stack Developer looking for an exciting opportunity in
 
 ### Master Go Using Concurrency Patterns
 - 
+
+### Postgress Details 
+
+- docker pull postgres:17.4-alpine3.21
+- $ docker run --name postgres -e POSTGRES_USER=root -e POSTGRES_PASSWORD=949383Hk -d postgres:17.4-alpine3.21
