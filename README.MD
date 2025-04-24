@@ -7,6 +7,11 @@
 - Efficient compilation
 - efficient execution
 - ease of programming
+- No runtime environment to worry about
+- Object Oriented (sort of)
+- cross platform
+- excellent package management
+- 
 
 ### Use Cases:
 - Go Is Statically Typed Language
@@ -131,4 +136,8 @@ Are you a passionate Full Stack Developer looking for an exciting opportunity in
 ### Postgress Details 
 
 - docker pull postgres:17.4-alpine3.21
-- $ docker run --name postgres -e POSTGRES_USER=root -e POSTGRES_PASSWORD=949383Hk -d postgres:17.4-alpine3.21
+- docker run --name postgres -e POSTGRES_USER=root -e POSTGRES_PASSWORD=949383Hk -d postgres:17.4-alpine3.21
+
+## Building Modules with go
+- Using Go Workspaces
+- 
