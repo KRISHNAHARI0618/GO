@@ -140,4 +140,8 @@ Are you a passionate Full Stack Developer looking for an exciting opportunity in
 
 ## Building Modules with go
 - Using Go Workspaces
+
+## Rune is Build in Type for unicode in Go
+- it is int32 bit character
+- when working with unicode characters we use rune
 - 

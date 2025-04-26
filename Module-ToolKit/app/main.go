@@ -12,4 +12,6 @@ func main() {
 	s := tools.RandomString(10)
 	fmt.Println("RandomString : ", s)
 
+	p := 65
+	x = p.Uint64()
 }
