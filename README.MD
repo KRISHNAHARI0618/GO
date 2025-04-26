@@ -132,7 +132,6 @@ Are you a passionate Full Stack Developer looking for an exciting opportunity in
 
 ### Master Go Using Concurrency Patterns
 - 
-
 ### Postgress Details 
 
 - docker pull postgres:17.4-alpine3.21
@@ -144,4 +143,25 @@ Are you a passionate Full Stack Developer looking for an exciting opportunity in
 ## Rune is Build in Type for unicode in Go
 - it is int32 bit character
 - when working with unicode characters we use rune
-- 
+
+## Go Language and Go Series
+
+- **Go Numeral Systems**
+  - Binary : 0b : 2^0
+  - Decimal : 0d : 10^0
+  - Hexa-Decimal : 0x : 16^0
+  - 
+- **Variables**
+  - shorthand operator will not work outside the function
+  - var number int = 25 
+  - var statement bool = true
+  - var marks float64 = 45.987
+  - var name string = "peddireddy"
+  - const name string = "peddireddy"
+
+- **Type Conversions**
+  - var num int32 = 345
+  - <!-- Varibale changing / type conversion -->
+  - num2 = int64(num)
+
+- **
