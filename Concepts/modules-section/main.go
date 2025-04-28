@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Important Funcion")
+	fmt.Println("Import Funcion")
 	gomodules.Fascinating()
 	s1 := gomodules.Animal()
 
